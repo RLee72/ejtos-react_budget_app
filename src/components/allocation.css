@@ -1,0 +1,7 @@
+.Currency {
+    background: white;
+  }
+  
+.Currency:hover option {
+background-color: white;
+}
